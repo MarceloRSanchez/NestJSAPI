@@ -1,8 +1,8 @@
 {
-  "name": "depay-api",
+  "name": "api",
   "version": "0.0.1",
   "description": "",
-  "author": "Depay",
+  "author": "Marcelo",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
