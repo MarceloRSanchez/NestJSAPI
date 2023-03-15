@@ -13,7 +13,7 @@
 
 ## Description
 
-Depay API project - Built on [Nest](https://github.com/nestjs/nest) framework.
+Nest API project - Built on [Nest](https://github.com/nestjs/nest) framework.
 
 ## Installation
 
