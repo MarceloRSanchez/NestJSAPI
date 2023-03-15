@@ -1,0 +1,41 @@
+{
+	"country_code": "UK",
+	"translations": [
+		{
+			"page": "PAGE_1",
+			"components": [
+				{
+					"name": "COMPONENT_NAME_1",
+					"data": [
+						{
+							"name": "COMPONENT_NAME_1",
+							"value": "COMPONENT_VALUE_1"
+						},
+						{
+							"name": "COMPONENT_NAME_2",
+							"value": "COMPONENT_VALUE_2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"page": "PAGE_2",
+			"components": [
+				{
+					"name": "COMPONENT_NAME_WITH_MULTIPLE_PROPS",
+					"data": [
+						{
+							"prop_1": "PROP_VALUE_1",
+							"prop_2": "PROP_VALUE_2",
+							"prop_3": "PROP_VALUE_3",
+							"prop_4": "PROP_VALUE_4",
+							"prop_5": "PROP_VALUE_5",
+							"prop_6": "PROP_VALUE_6"
+						}
+					]
+				}
+			]
+		}
+	]
+}
